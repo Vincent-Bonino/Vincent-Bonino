@@ -15,4 +15,4 @@ Learn more at [https://egg-engine.com](https://egg-engine.com)
 
 ## Contact me
 - Mail:
-- Linkedin: 
+- [Linkedin](https://www.linkedin.com/in/vincent-bonino/)
