@@ -14,5 +14,5 @@ Learn more at [https://egg-engine.com](https://egg-engine.com)
 
 
 ## Contact me
-- Mail:
+- Mail: vincent.bonino1@gmail.com
 - [Linkedin](https://www.linkedin.com/in/vincent-bonino/)
