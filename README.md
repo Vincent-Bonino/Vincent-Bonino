@@ -9,7 +9,7 @@ Futur Telecom Nancy graduate
 ### EGG engine
 With my friend [P. Thibault](https://github.com/PierreLeBoss), we created a cross-plateform 2D game engine named EGG.
 
-I created its introduction website.
+I also created its website.  
 Learn more at [https://egg-engine.com](https://egg-engine.com)
 
 
